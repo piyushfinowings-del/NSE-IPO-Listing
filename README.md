@@ -1,6 +1,3 @@
-Sure — below is the **complete `README.md` content**. You can copy it directly into a file named **`README.md`** and upload it to your GitHub repository.
-
-```markdown
 # NSE IPO Listing: GMP, Allotment Status, Listing Date and Latest Updates
 
 The **NSE IPO listing** is an important event for investors who participated in the public issue. Investors can track updates related to the **NSE IPO GMP, allotment status, listing date, listing price, and market performance**.
@@ -106,7 +103,3 @@ Investors should verify important information through official exchange disclosu
 This content is provided for informational and educational purposes only. It should not be considered investment advice or a recommendation to buy or sell securities.
 
 Investors should conduct their own research and consult a qualified financial professional before making investment decisions.
-```
-
-**GitHub file name:** `README.md`
-**Repository upload:** Create/open your repository → **Add file → Create new file** → enter `README.md` → paste the above content → **Commit changes**.
